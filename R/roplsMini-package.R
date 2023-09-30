@@ -1,4 +1,4 @@
-#' A lightweight package ropls wrapper
+#' A lightweight wrapper for ropls
 #'
 #' Removed ExpressionSet, MultiAssayExperiment, MultiDataSet and SummarizedExperiment objects,
 #' only retained PCA, PLS(-DA) and OPLS(-DA) methods for data.frame and matirx in ropls
