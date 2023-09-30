@@ -1,4 +1,4 @@
-# roplsMini: A lightweight wrapper of ropls
+# roplsMini: A lightweight wrapper for ropls
 Removed ExpressionSet, MultiAssayExperiment, MultiDataSet and SummarizedExperiment objects, and only retained PCA, PLS(-DA) and OPLS(-DA) methods for data.frame and matirx in [ropls](https://bioconductor.org/packages/release/bioc/html/ropls.html).
 
 ``` r
