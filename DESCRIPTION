@@ -1,5 +1,5 @@
 Package: roplsMini
-Title: A lightweight package ropls wrapper
+Title: A lightweight wrapper for ropls
 Version: 1.0
 Authors@R: 
     person(given = "Li", family = "Zhan", email = "smu18575877413@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "0009-0003-7470-7586"))
