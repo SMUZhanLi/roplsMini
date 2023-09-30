@@ -1,8 +1,6 @@
 # roplsMini: A lightweight package ropls wrapper
 Removed ExpressionSet, MultiAssayExperiment, MultiDataSet and SummarizedExperiment objects, and only retained PCA, PLS(-DA) and OPLS(-DA) methods for data.frame and matirx in [ropls](https://bioconductor.org/packages/release/bioc/html/ropls.html).
 
-the development version from github:
-
 ``` r
 if (!requireNamespace("remotes", quietly=TRUE))
     install.packages("remotes")
