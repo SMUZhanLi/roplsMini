@@ -4,7 +4,7 @@ Removed ExpressionSet, MultiAssayExperiment, MultiDataSet and SummarizedExperime
 ``` r
 if (!requireNamespace("remotes", quietly=TRUE))
     install.packages("remotes")
-remotes::install_github(SMUZhanLi/roplsMini")
+remotes::install_github("SMUZhanLi/roplsMini")
 
 library(roplsMini)
 
